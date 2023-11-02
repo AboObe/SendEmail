@@ -1,0 +1,8 @@
+This is the file path
+
+/var/www/html/thefoundersmemorial-website/Themes/Flatly/views/home.blade.php
+
+
+http://api-ses.szgmc.gov.ae/swagger/index.html
+
+Comment: الرجاء الطلب من المورد تسمية الفاتورة ب Tax Invoice حيث ان الفاتورة ضريبية و شكرا
